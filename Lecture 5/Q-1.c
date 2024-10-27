@@ -7,7 +7,7 @@ int main(){
     scanf("%d",&a);
     printf("Enter you're B value :");
     scanf("%d",&b);
-    printf("Enter you're C value :");
+    printf("Enter you're  C value :");
     scanf("%d",&c);
 
     a<b?a<c?printf("A is small"):printf("C is small"):b<c?printf("B is small"):printf("C is small");
