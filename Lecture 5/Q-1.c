@@ -5,7 +5,7 @@ int main(){
 
     printf("Enter you're A value :");
     scanf("%d",&a);
-    printf("Enter you're B value :");
+    printf("Enter  you're B value :");
     scanf("%d",&b);
     printf("Enter you're  C value :");
     scanf("%d",&c);
