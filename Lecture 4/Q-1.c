@@ -6,7 +6,7 @@ int main(){
     printf("Enter you're first value ");
     scanf("%d",&x);
 
-    printf("Enter you're second value ");
+    printf("Enter  you're second value ");
     scanf("%d",&y);
 
     int result=(x+y)*(x+y);
