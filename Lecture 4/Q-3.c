@@ -10,7 +10,7 @@ int main(){
 
     int result=(x+y)*(x+y)*(x+y);
 
-    printf("The answer is %d",result);
+    printf("The answer   is %d",result);
 
     return 0;
 }
